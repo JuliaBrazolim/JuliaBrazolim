@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Julia Brazolim</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/13179312/92413291-c508e580-f125-11ea-80eb-394bab9e01cd.gif">
-</p>
+</p> -->
 
 <h3 align="center"> podcaster, front-end e queria comer doritos no espaço <img src="https://user-images.githubusercontent.com/13179312/92411290-a3a3fb80-f11d-11ea-884c-3c2a4aeeebe6.gif" width="60"></h3>
 
