@@ -10,5 +10,3 @@
 
 💻 Meu portfólio: <a href="https://juliabrazolim.github.io/">https://juliabrazolim.github.io/</a> and 
 🌙🔭 Conheça meu projeto em: <a href="https://www.missaoexoplaneta.com.br/">Missão Exoplaneta<a>
-
-[![@juliabrazolim's Holopin board](https://holopin.io/api/user/board?user=juliabrazolim)](https://holopin.io/@juliabrazolim)
