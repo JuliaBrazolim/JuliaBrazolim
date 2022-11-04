@@ -9,4 +9,4 @@
 ###### Trabalho como UI Designer 😍 Também sou front-end e curto codificação de layouts, criando websites usando HTML, CSS, JS, PHP, mySQL e às vezes Bootstrap :) Estou aprendendo Python, Ruby e Vue.js - além de amar o framework Electron. Sou podcaster, criadora, divulgadora científica em astronomia e desenvolvedora do projeto Missão Exoplaneta.
 
 💻 Meu portfólio: <a href="https://juliabrazolim.github.io/">https://juliabrazolim.github.io/</a> and 
-🌙🔭 Conheça meu projeto em: <a href="https://www.missaoexoplaneta.com.br/">Missão Exoplaneta<a>
+🌙🔭 Conheça meu projeto em: <a href="https://www.missaoexoplaneta.com.br/">Missão Exoplaneta<a> (o site ta fora do ar)
